@@ -13,3 +13,6 @@ Instructions:
 2. Go to /system script, select the "LTE-check-script" script and click on "Run Script";
 3. Check in the LOGs that the Schedule was created correctly. The script will check every 30 minutes;
 4. Go to the terminal and paste the code you find in the logging.rsc file so that when the router reboots caused by a fail detected by this script it will be indicated in the logs even after the reboot.
+
+
+GUIDA IN ITALIANO AL LINK: https://foisfabio.it/index.php/2024/03/28/mikrotik-script-check-lte/
